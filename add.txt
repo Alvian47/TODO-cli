@@ -1,0 +1,4 @@
+push to git:
+git push add .
+git commit -m "text"
+git push
